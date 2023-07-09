@@ -1,0 +1,163 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #EAF2F5;
+  width: 1200px;
+  height: 51px;
+  margin-left: 150px;
+  margin-top: 10px;
+  padding-top: 18px;
+  border-radius: 50px;
+}
+.header p{
+  display: inline-block;
+  margin-left: 50px;
+
+}
+.header img{
+  margin-left: 20px;
+}
+.header_2{
+  margin-right: 30px;
+}
+
+.text h5{
+  font-weight: 500;
+font-size: 46px;
+line-height: 46px;
+margin-top: 100px;
+margin-bottom: 31px;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 150px;
+
+}
+.image{
+  margin-top: 100px;
+  margin-right: 200px;
+}
+.text p{
+  margin-top: 30px;
+}
+
+/* .btn a{
+width: 300px;
+height: 70px;
+color: #fff;
+background-color: chocolate;
+border-radius: 40px;
+margin-top: 100px;
+}
+.btn a{
+  text-align: center;
+  padding-top: 25px;
+  font-size: 20px;
+} */
+.courses{
+  margin-left: 150px;
+  margin-right:200px ;
+  display: flex;
+  justify-content: space-around;
+  background-color: #EAF2F5;
+border-radius: 50px; 
+}
+.text_courses{
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 50px;
+  font-size: 30px;
+  font-weight: 700;
+} 
+.python{
+  width: 300px;
+  height: 37px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 44px;
+  background-color: coral;
+}
+
+.docker{
+   width: 200px;
+  height: 37px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 44px;
+  background-color: rgb(80, 255, 170);
+}
+.bd{
+    width: 250px;
+  height: 37px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 44px;
+  background-color: rgb(80, 106, 255);
+}
+.django{
+    width: 400px;
+  height: 37px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 44px;
+  background-color: rgb(255, 80, 89);
+}
+.git{
+    width: 100px;
+  height: 37px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 44px;
+  background-color: rgb(194, 255, 80);
+}
+.seti{
+    width: 100px;
+  height: 37px;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 44px;
+  background-color: rgb(255, 80, 185);
+}
+.cards{
+  margin-left: 150px;
+  margin-right:200px ;
+  margin-bottom: 150px;
+display:flex;
+justify-content: space-between;
+}
+.cards_h1{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.card1{
+  width: 270px;
+height: 254px;
+background-color:#EAF2F5 ;
+border-radius: 30px;
+text-align: center;
+align-items: center;
+}
+.card1 img {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.card1 p{
+  margin-top: 20px;
+  font-size: 14px;
+} 
+
